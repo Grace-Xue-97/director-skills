@@ -1,0 +1,4 @@
+interface:
+  display_name: "导演表演skill"
+  short_description: "情绪、表演、动作、声音与环境反馈导演提示词"
+  default_prompt: "请使用 $director-performance，把这段剧情/剧本/分镜转成影视级表演与情绪导演提示词。"
