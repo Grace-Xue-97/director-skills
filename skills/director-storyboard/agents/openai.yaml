@@ -1,0 +1,4 @@
+interface:
+  display_name: "导演分镜skill"
+  short_description: "按 QH 五段式模板编写视频提示词，保留素材绑定、空间锚点、分镜时间轴与贯穿约束"
+  default_prompt: "请使用 $director-storyboard，按照我的固定模板把这段剧情写成完整、可直接复制的视频提示词。"
